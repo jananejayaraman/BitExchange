@@ -1,0 +1,7 @@
+org/bit/repository/UserRepository.class
+org/bit/model/User.class
+org/bit/model/Recommendation.class
+org/bit/controller/UserController.class
+org/bit/model/Bit.class
+org/bit/model/BitRate.class
+org/bit/App.class
